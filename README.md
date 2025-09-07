@@ -1,16 +1,30 @@
-## Hi there 👋
+👩‍💻 Sandya | Web Developer
+Hi there! 👋 I’m Sandya, a passionate Web Developer who loves building responsive, user-friendly, and modern web applications. I enjoy solving real-world problems through code and continuously learning new technologies.
 
-<!--
-**sandya-netizen/Sandya-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+💻 Skilled in HTML, CSS, JavaScript, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Strong interest in UI/UX design and clean interfaces
+
+🌱 Currently exploring TypeScript & Next.js
+
+🤝 Open to collaboration on open-source projects
+
+📫 Reach me at
+
+
+🛠️ Tech Stack
+
+Frontend: React, Next.js, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Tools & Platforms: Git, GitHub, VS Code, Postman, Figma
+
+📂 Featured Projects
+
+🌐 Portfolio Website – Personal portfolio showcasing my skills and projects
+
+🛍️ E-Commerce App – A full-stack MERN e-commerce application with authentication and cart
+
+📊 Dashboard App – Admin dashboard with charts, tables, and real-time data
